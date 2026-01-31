@@ -43,7 +43,7 @@ Not utilities. Existence.
 ### Claude Code
 
 ```
-/plugin marketplace add TheFactoryX/skills
+/plugin marketplace add https://github.com/TheFactoryX/skills
 /plugin install factory-skills@thefactoryx-skills
 ```
 
