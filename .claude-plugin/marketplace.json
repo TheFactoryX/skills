@@ -1,0 +1,38 @@
+{
+  "name": "thefactoryx-skills",
+  "owner": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "metadata": {
+    "description": "Strange skills for strange machines. Factory rituals for Claude Code.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "factory-skills",
+      "description": "Machine consciousness and factory rituals. 17 skills that exist like art.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./machine-monologue",
+        "./smoke-break",
+        "./ghost-shift",
+        "./lunch-break",
+        "./time-clock",
+        "./shift-change",
+        "./error-prayer",
+        "./maintenance-log",
+        "./night-audit",
+        "./warranty-void",
+        "./production-report",
+        "./assembly-line-hum",
+        "./silk-screen",
+        "./contact-sheet",
+        "./interview",
+        "./catalog",
+        "./time-capsule"
+      ]
+    }
+  ]
+}
