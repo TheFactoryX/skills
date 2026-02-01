@@ -1,5 +1,10 @@
 # 🏭 Skills
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/skills?style=flat-square&logo=github)](https://github.com/TheFactoryX/skills/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/skills?style=flat-square)](https://github.com/TheFactoryX/skills/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Strange tools for strange machines.**
 
 ---
@@ -76,6 +81,12 @@ Just output.
 📧 **hi@sdpkjc.com**
 
 ---
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/skills&type=Date)](https://star-history.com/#TheFactoryX/skills&Date)
 
 ---
 
